@@ -1,12 +1,14 @@
 # Deep Remains
 
-Videojuego 2D en pixel art ambientado en el fondo del mar, desarrollado en **Unity 6** como proyecto universitario.
+Videojuego 2D en pixel art sobre la contaminación marina, desarrollado en **Unity 6** como proyecto universitario.
 
 ![Escenario de Deep Remains](Assets/Sprites/Escenario.png)
 
 ## Sobre el juego
 
-Un pequeño pez recorre el fondo del océano, entre corales y restos de basura que flotan en el agua, mientras en la superficie navega un barco.
+*Deep Remains* nace de una problemática mundial: **la contaminación marina**.
+
+El jugador controla a un personaje humanoide que se sumerge en el océano para enfrentar a enemigos subacuáticos: la basura que contamina el mar. El objetivo es derrotarlos para limpiar el océano.
 
 ## Estado del proyecto
 
@@ -16,10 +18,9 @@ El proyecto está en desarrollo. Hoy incluye:
 - **Menú de opciones** para cambiar la calidad gráfica y activar la pantalla completa.
 - **Escena de juego** con el escenario submarino.
 - **Sprites y animaciones en pixel art** hechos en Aseprite:
-  - El pez, en reposo y en movimiento hacia la izquierda y la derecha.
+  - El personaje principal, en reposo y en movimiento hacia la izquierda y la derecha.
+  - Los enemigos subacuáticos: la basura marina (manzanas, bananos y espinas de pescado) y dos enemigos más.
   - El barco, con sus estados normal, recibiendo impacto y dañado.
-  - Dos enemigos.
-  - Basura marina: manzanas, bananos y espinas de pescado.
 
 ## Tecnologías
 
