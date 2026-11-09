@@ -24,3 +24,7 @@ mono_crash.*
 sysinfo.txt
 .vs/
 .gradle/
+# Unity Version Control (Plastic SCM) y editor
+.plastic/
+ignore.conf
+.vscode/
